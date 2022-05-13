@@ -1,0 +1,51 @@
+.header__inner {
+  margin-top: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__box {
+  width: 620px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.heder__box-tel {
+  width: 138px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__tel {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #00094A;
+}
+
+.header__line {
+  width: 22px;
+  border: 1px solid #00094A;
+  transform: rotate(90deg);
+}
+
+.header__menu {
+  width: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__text {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 15px;
+  color: #00094A;
+}

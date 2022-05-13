@@ -1,0 +1,117 @@
+.about {
+
+    &-us-container {
+        background-color: #FFFFFF;
+        margin-bottom: 120px;
+    }
+
+    &__nav {
+        margin-left: auto;
+        margin-right: auto;
+        height: 35px;
+        padding-top: 3px;
+        text-align: center;
+        max-width: 622px;
+        background: #FFFFFF;
+        border: 1px solid #C0CAD5;
+        box-sizing: border-box;
+        border-radius: 3px;
+    }
+
+    &__top-link {
+        padding: 9px 28px;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+        text-align: center;
+        color: #00094A;
+        text-decoration: none;
+        border-radius: 3px;
+    }
+
+    &__top-link:hover {
+        background-color: darkorange;
+        color: #FFFFFF;
+        opacity: 0.8;
+    }
+
+    &__top-link:active {
+        background-color: #00094A;
+        color: #FFFFFF;
+    }
+
+    &-bottom {
+        padding-top: 42px;
+        padding-bottom: 106px;
+        position: relative;
+    }
+
+    &__list {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    &__item {
+        margin: 4.5px;
+    }
+
+    &__link {
+        padding: 371px 30px 20px;
+        text-decoration: none;
+        width: 310px;
+        height: 450px;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 22px;
+        color: #FFFFFF;
+        display: block;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+
+    &__link-pay {
+        background-image: url("../../img/about-us_pay.jpg");
+    }
+
+    &__item-chats {
+        background-image: url("../../img/about-us_chats.jpg");
+    }
+
+    &__item-lion {
+        background-image: url("../../img/about-us_hoff.jpg");
+    }
+
+    &__item-hoff {
+        background-image: url("../../img/about-us_lion.jpg");
+    }
+
+    &__item-coffee {
+        background-image: url("../../img/about-us_coffe.jpg");
+    }
+
+    &__item-girl {
+        background-image: url("../../img/about-us_girl.jpg");
+    }
+
+    &__item-iphone {
+        background-image: url("../../img/about-us_iphone.jpg");
+        background-size: contain;
+        width: 633px;
+        height: 450px;
+    }
+
+
+
+    &__btn--position {
+        margin-top: 50px;
+        padding: 14px 50px 13px;
+        border-radius: 5px;
+        position: absolute;
+        right: 548px;
+        // top: 50px;
+        cursor: pointer;
+    }
+}

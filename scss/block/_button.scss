@@ -1,0 +1,35 @@
+.button {
+    width: 186px;
+    height: 42px;
+    border: none;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #00094A;
+    border-radius: 3px;
+}
+
+.services__btn {
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background-color: #00094A;
+    margin-left: auto;
+}
+
+.services__btn:hover {
+    background-color: darkorange;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.services__btn:active {
+    background-color: #00094A;
+    color: #FFFFFF;
+}

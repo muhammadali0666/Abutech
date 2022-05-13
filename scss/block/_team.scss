@@ -1,0 +1,154 @@
+.team__inner {
+  display: flex;
+}
+
+.span {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  color: #00094A;
+}
+
+.team__paragraph {
+  width: 289px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 61px;
+  color: #00094A;
+  margin-bottom: 15px;
+}
+
+.team__text {
+  width: 488px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  color: #00094A;
+  opacity: 0.8;
+}
+
+.team__inner-box-in-next {
+  padding-left: 13px;
+  padding-bottom: 12px;
+  width: 221px;
+  height: 245px;
+  background-image: url(../../img/Oyposhsha.jpg);
+  background-repeat: no-repeat;
+  margin-bottom: 0;
+  background-position: center center;
+  margin-top: 188px;
+  margin-left: 130px;
+}
+
+.team__inner-box-p {
+  width: 179px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+
+.team__inner-box-p-next {
+  align-self: end;
+  width: 125px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  text-transform: uppercase;
+  color: #FFFFFF;
+  margin-left: 0;
+}
+
+.team__paragraph-div {
+  display: flex;
+}
+.team__inner-box-continue-div {
+  margin-top: 188px;
+}
+.team__inner-box-in-next-div {
+  margin-top: 200px;
+}
+
+.team__inner-box-continue {
+  width: 208px;
+  height: 238px;
+  background-image: url(../../img/SHovkat-aka.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin-left: 79px;
+  margin-top: 105px;
+  padding-left: 13px;
+  padding-bottom: 12px;
+}
+.team__inner-box-other {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.team__inner-box-first {
+  background-image: url(../../img/Maftun.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  width: 286px;
+  height: 286px;
+  margin-left: 47px;
+  padding-left: 13px;
+  padding-bottom: 12px;
+}
+.team__inner-box-first-box {
+  margin-top: 235px;
+}
+.team__inner-box-second-box {
+  margin-top: 201px;
+}
+.team__inner-box-second {
+  width: 230px;
+  height: 251px;
+  background-image: url(../../img/Sanjar.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin-left: 77px;
+  margin-top: 127px;
+  padding-left: 13px;
+  padding-bottom: 13px;
+}
+
+.team__inner-box-thirth {
+  width: 204px;
+  height: 217px;
+  background-image: url(../../img/Rustam.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  margin-top: 0px;
+  margin-left: 89px;
+  padding-left: 13px;
+  padding-bottom: 13px;
+}
+.team__inner-continue-thirth {
+  margin-top: 165px;
+}
+
+.team__inner-box-fourth {
+  width: 218px;
+  height: 220px;
+  background-image: url(../../img/Alisher.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  padding-left: 13px;
+  padding-bottom: 13px;
+  margin-top: 68px;
+  margin-left: 84px;
+}
+.team__inner-continue-forth {
+  margin-top: 170px;
+}

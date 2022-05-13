@@ -1,0 +1,23 @@
+.data__list {
+  margin: 0;
+  padding: 0;
+  margin-top: 60px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.data__span{
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 59px;
+  color: #00094A;
+}
+
+.data__text {
+  width: 145px;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  color: #00094A;
+}

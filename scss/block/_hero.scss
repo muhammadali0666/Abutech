@@ -1,0 +1,37 @@
+.hero__inner {
+  margin-top: 16px;
+  height: 400px;
+  background-image: url(../../img/hero-bc-img.png);  
+  background-repeat: no-repeat;  
+}
+
+.hero__box {
+  width: 493px;
+  padding-top: 195px;
+  margin-left: 65px;
+
+}
+
+.hero__title {
+  margin: 0;
+  padding: 0;
+  font-weight: 800;
+  font-size: 35px;
+  line-height: 43px;
+  text-transform: uppercase;  
+  color: #FFFFFF;
+}
+
+.hero__text {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  color: #FFFFFF;
+}
+
+.hero__button {
+  width: 206px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
